@@ -1,0 +1,12 @@
+# astroruby changelog 
+
+2012-02-25  Juanma Rodriguez <jmrod4>
+
+* README : polish some text and format
+
+2012-02-25  Juanma Rodriguez  <jmrod4> 
+v0.1 - first version, limited but usable
+
+* astro.rb : julian day calculations (and related)
+	
+* astro_testunit.rb : partial test unit
