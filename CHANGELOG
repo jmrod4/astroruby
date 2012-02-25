@@ -1,0 +1,8 @@
+* README : small text changes
+
+2012-02-25  Juanma Rodriguez  <jmrod4atgmaildotcom> 
+v0.1 - first version, limited but usable
+
+* astro.rb : julian day calculations (and related)
+	
+* astro_testunit.rb : partial test unit

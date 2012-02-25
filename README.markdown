@@ -1,4 +1,6 @@
-astror.rb - astronomical (Ruby) calculations
+# astroruby
+
+small library of astronomical calculations in ruby
 
 Copyright (c) 2011 Juan Manuel Rodriguez Ibañez
 
