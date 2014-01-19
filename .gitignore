@@ -1,1 +1,3 @@
-doc/*
+## Documentation cache and generated files:
+/doc/
+/rdoc/
